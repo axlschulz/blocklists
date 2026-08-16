@@ -9,9 +9,9 @@
 ||app.appsflyer.com^
 ||bnc.lt^
 ! connect.facebook.net^
-! graph.facebook.com^
-! graph.instagram.com^
-! i.instagram.com^
+||graph.facebook.com^
+||graph.instagram.com^
+||i.instagram.com^
 ||ads.x.com^
 ||widgets.pinterest.com^
 ||qevents.quora.com^
