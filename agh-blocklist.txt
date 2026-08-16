@@ -1,5 +1,5 @@
 ################ needs evalaution ####
-## check your results here:  https://superadblocktest.com/ 
+## check your results here:  https://superadblocktest.com/ + https://adblock.turtlecute.org/
 ! rt.applovin.com
 ||s.youtube.com
 ||redirector.googlevideo.com^
