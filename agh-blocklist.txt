@@ -1,3 +1,26 @@
+! Typosquatting
+|*app1e*^
+|*faceb00k*^
+|*faceb0ok*^
+|*facebo0k*^
+|*g00gle*^
+|*g0ogle*^
+|*go0gle*^
+|*inslagram*^
+|*lnslagram*^
+|*lnstagram*^
+|*ipfs*^
+|*off1ce*^
+|*0ff1ce*^
+|*0ffice*^
+|*qltuh*^
+|*tw1tter*^
+|*y0ulube*^
+|*y0utube*^
+|*youlube*^
+##
+! domain block
+##
 ||royalgirl.de^
 ||wunderino.de^
 ||6nv37.casino^
