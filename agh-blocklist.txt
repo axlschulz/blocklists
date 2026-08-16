@@ -1,1 +1,145 @@
-
+||royalgirl.de^
+||wunderino.de^
+||6nv37.casino^
+||nvcasino.com.de^
+||nvcasino.be^
+||nv-casino.eu.com^
+||nvcasino.one^
+||nv*casino.*^
+||nvcasiononline.de.com^
+||gog-games.com^
+||alfafile.net^
+||live.virtualdj.com^
+||googleads.g.doubleclick.net^
+||ikhnaie.link^
+||ad-srv.net^
+||awin1.com^
+||securepubads.g.doubleclick.net^
+||pixel.adsafeprotected.com^
+||adsafeprotected.com^
+||tpc.googlesyndication.com/pagead
+||pagead2.googlesyndication.com^
+||pagead.googlesyndication.com^
+||pagead1.googlesyndication.com^
+||temu.com^
+||live.virtualdj.com^
+||herokuspace.com^
+||trackboxx.info^
+||https://tpc.googlesyndication.com^
+||pagead2.googlesyndication.com^
+||yandex.ru^
+||optimizely.com^
+||ib.adnxs.com^
+||googleads.g.doubleclick.net^
+||adclick.g.doubleclick.net^
+||btloader.com^
+||clickserve.dartsearch.net^
+||stadiumgaming.gg///ads2ads.net
+||websecured.live^
+||gov.ua^
+||btloader.com^
+||ads2ads.net^
+||ads2ads.net
+! Title: Smart-TV Blocklist for AdGuard Home (by Dandelion Sprout's)
+! Version: 16December2021v1
+! Description: This is a blocklist to block smart-TVs sending metadata back home, sometimes with the added benefit of blocking interface ads for apps and movie services.
+#! Multiple brands
+||smartclip.com^
+||smartclip.net^
+#! LG: Diese URLs müsst ihr sperren
+||lgad.cjpowercast.com^
+||ngfts.lge.com^
+||us.ad.lgsmartad.com^
+||us.info.lgsmartad.com^
+||ad.lgappstv.com^
+||aic-ngfts.lge.com^
+||smartclip.com^
+||smartclip.net^
+||smartshare.lgtvsdp.com^
+||us.ibs.lgappstv.com^
+||us.lgtvsdp.com^
+||us.rdx2.lgtvsdp.com^
+||yumenetworks.com^
+#! Samsung: Diese URLs müsst ihr sperren
+#||auth.samsungosp.com # If blocked, Samsung accounts will fail to authenticate
+||ads.samsung.com^
+||config.samsungads.com^
+||gpm.samsungqbe.com^
+||log-config.samsungacr.com^
+||events.samsungads.com^
+||samsungtvads.com^
+||nugg.ad^
+||de.theadex.com^
+||theadex.com^
+||tvx.adgrx.com^
+#||samsung.com^
+||samsungacr.com^
+||samsungads.com^
+||samsung.net/ads^
+#||samsungotn.net^
+!samsungotn.net # System update check on Samsung UE65RU7455
+#||sso.internetat.tv^ # Account login
+#||time.samsungcloudsolution.com # If blocked, services like Plex, YouTube and Amazon Video not working anymore on some Samsung TV's
+!||otn.samsungcloudcdn.com^ # Prevents updates on UE49KS7000 and QE55Q9FNA; https://github.com/Perflyst/PiHoleBlocklist/issues/60
+!||www.samsungotn.net^ # Required for software update
+!||cdn.samsungcloudsolution.com # Required for software update
+#! Roku: Diese URLs müsst ihr sperren
+||amoeba.web.roku.com^
+||assets.sr.roku.com^
+||cloudservices.roku.com^
+||prod.mobile.roku.com^
+||wwwimg.roku.com^
+! Roku
+||logs.roku.com^
+||display.ravm.tv^
+||ravm.tv^
+#! HBBTV
+||hbbtv-1.eurosport.com^
+||hbbtv-extern-fe01.sim-technik.de^
+||hbbtv-track.redbutton.de^
+||hbbtv.*.de^
+||hbbtv01p.anixe.net^
+||hbbtvapp.sonnenklar.tv^
+||p-hbbtv.superrtl.de^
+#||hbbtv.zdf.de^
+#||hbbtv.prosieben.de^
+#||hbbtv.redbutton.de^
+! ——— IQ test sites that make you waste heaps of time by taking the test, and then try to charge you to see the results. ———
+||funeducation.com^
+||iq-research.info^
+||iq-test.co.uk^
+||iqtest.co.uk^
+||iqtest.com^
+||iqtestnow.org^
+||iqtestonline24.com^
+||test-iq.org^
+||officialiqtests.com^
+||signaler-pa.clients6.google.com^$important
+||e12923.a.akamaiedge.net^$important
+||e7671.dsce6.akamaiedge.net^$important
+||cdn.walkme.com^$important
+||d1860nkzpr7ksr.cloudfront.net^$important
+||lps.innogames.com^$important
+||om.forgeofempires.com^$important
+||realling-sudance.com^$important
+||click-trk.com^$important
+||safesly.com^$important
+||ocsp.sectigo.com^$important
+||img-prod.pocket.prod.cloudops.mozgcp.net^$important
+||proxyserverecs-1736642167.us-east-1.elb.amazonaws.com^$important
+||img-getpocket.cdn.mozilla.net^$important
+||spocs.getpocket.com^$important
+||cdn.bizibly.com^$important
+||ocsp.comodoca.com^$important
+||l-0005.l-msedge.net^$important
+||d2tobj9dlmyzd8.cloudfront.net^$important
+||cdn-cybersecurity.att.com^$important
+||e8999.b.akamaiedge.net^$important
+||a1916.dscg2.akamai.net^$important
+||cs9.wac.phicdn.net^$important
+||b2discourse.b-cdn.net^$important
+||a1887.dscq.akamai.net^$important
+||ns11.whois.co.kr
+||images.discovery.indazn.com^$important
+||mydirtyhobby.com^
+||www.luck4ever.net^$important
