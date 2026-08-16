@@ -1,3 +1,46 @@
+################ needs evalaution ####
+## check your results here:  https://superadblocktest.com/ 
+! rt.applovin.com
+! s.youtube.com
+!redirector.googlevideo.com
+! tagmanager.google.com
+||eu.posthog.com^
+||rudderstack.com^
+||app.appsflyer.com
+||bnc.lt
+! connect.facebook.net
+! graph.facebook.com
+! graph.instagram.com
+! i.instagram.com
+||ads.x.com^
+||widgets.pinterest.com^
+||qevents.quora.com^
+||xp.apple.com^
+! settings-win.data.microsoft.com
+! device-metrics-us.amazon.com
+! device-metrics-us-2.amazon.com
+||privacyportal.onetrust.com^
+||consent.cookiebot.com^
+||consentcdn.cookiebot.com^
+||cookiebot.com^
+||consent.trustarc.com^
+||sdk.privacy-center.org^
+||cdn.privacy-mgmt.com^
+||app.usercentrics.eu^
+||cmp.inmobi.com^
+||fundingchoicesmessages.google.com^
+||redirector.skimresources.com^
+||redirect.viglink.com^
+||cdn.optimizely.com^
+||clientstream.launchdarkly.com^
+||click.mailchimp.com^
+||widget.intercom.io^
+||api.onesignal.com^
+! ||dai.google.com^
+||ssl.p.jwpcdn.com^
+
+
+################
 ! Typosquatting
 |*app1e*^
 |*faceb00k*^
