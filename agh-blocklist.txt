@@ -39,7 +39,6 @@
 ! ||dai.google.com^
 ||ssl.p.jwpcdn.com^
 
-
 ################
 ! Typosquatting
 |*app1e*^
