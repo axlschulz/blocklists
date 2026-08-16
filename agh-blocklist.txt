@@ -1,6 +1,7 @@
 ################ needs evalaution ####
 ## check your results here:  https://superadblocktest.com/ + https://adblock.turtlecute.org/
 ! rt.applovin.com^
+! b.applovin.com^
 ||s.youtube.com^
 ||redirector.googlevideo.com^
 ||tagmanager.google.com^
