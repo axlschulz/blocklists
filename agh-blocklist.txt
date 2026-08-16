@@ -1,8 +1,8 @@
 ################ needs evalaution ####
 ## check your results here:  https://superadblocktest.com/ 
 ! rt.applovin.com
-! s.youtube.com
-!redirector.googlevideo.com
+||s.youtube.com
+||redirector.googlevideo.com^
 ! tagmanager.google.com
 ||eu.posthog.com^
 ||rudderstack.com^
