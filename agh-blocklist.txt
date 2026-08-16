@@ -1,24 +1,24 @@
 ################ needs evalaution ####
 ## check your results here:  https://superadblocktest.com/ + https://adblock.turtlecute.org/
-! rt.applovin.com
-||s.youtube.com
+! rt.applovin.com^
+||s.youtube.com^
 ||redirector.googlevideo.com^
-! tagmanager.google.com
+||tagmanager.google.com^
 ||eu.posthog.com^
 ||rudderstack.com^
-||app.appsflyer.com
-||bnc.lt
-! connect.facebook.net
-! graph.facebook.com
-! graph.instagram.com
-! i.instagram.com
+||app.appsflyer.com^
+||bnc.lt^
+! connect.facebook.net^
+! graph.facebook.com^
+! graph.instagram.com^
+! i.instagram.com^
 ||ads.x.com^
 ||widgets.pinterest.com^
 ||qevents.quora.com^
 ||xp.apple.com^
-! settings-win.data.microsoft.com
-! device-metrics-us.amazon.com
-! device-metrics-us-2.amazon.com
+! settings-win.data.microsoft.com^
+! device-metrics-us.amazon.com^
+! device-metrics-us-2.amazon.com^
 ||privacyportal.onetrust.com^
 ||consent.cookiebot.com^
 ||consentcdn.cookiebot.com^
