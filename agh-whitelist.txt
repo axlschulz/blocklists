@@ -1,1 +1,77 @@
+@@||hagezi.com^
+## https://github.com/hagezi/dns-blocklists/tree/main/
+@@||dragonbox.de^
+@@||fritz.smartgateway^
+@@||vidaa.com^$important
+@@||redump.org^
+@@||dosbox-staging.org^
+@@||7eer.net^
+@@||launchbox-app.com^
+@@||rapidgator.net^
+@@||commerzbank.de^
+@@||dns-net.de^
+@@||toggo.de^
+@@||n-tv.de^
+@@||gigabyte.com^
+@@||ingame.de^
+@@||msftncsi.com^
+@@||ezbsys.com^
+@@||linkedin.com^
+@@||archive.org^
+@@||portableapps.com^
+@@||pokefans.net^
+@@||gog.com^
+@@||dell.com^
+@@||geekbuying.com^
+@@||gnome.org^
+@@||idealo-partner.com^
+@@||vergleich.org^
+@@||aax-eu.amazon.de^
+@@||lencr.org^
+@@||linkedin.edgesuite.net^
+@@||auth.samsungosp.com # If blocked, Samsung accounts will fail to authenticate
+@@||samsung.com^
+@@||samsungotn.net^
+!samsungotn.net # System update check on Samsung UE65RU7455
+@@||sso.internetat.tv^ # Account login
+@@||time.samsungcloudsolution.com # If blocked, services like Plex, YouTube and Amazon Video not working anymore on some Samsung TV's
+!||otn.samsungcloudcdn.com^ # Prevents updates on UE49KS7000 and QE55Q9FNA; https://github.com/Perflyst/PiHoleBlocklist/issues/60
+!||www.samsungotn.net^ # Required for software update
+! @@||cdn.samsungcloudsolution.com # Required for software update
+@@||hbbtv.zdf.de^
+@@||hbbtv.prosieben.de^
+@@||hbbtv.redbutton.de^
+@@||rt.applovin.com^$important
+@@||api-secure.solvemedia.com^$client='Alex PC'
+@@||cdn.samsungcloudsolution.com^$client='SamsungTVUE55MU'
+@@||lcprd1.samsungcloudsolution.net^$client='SamsungTVUE55MU'
+@@||binaries.templates.cdn.office.net^$important
+# Pokemon GO
+@@||nianticlabs.com^$important
+@@||www.adata.com^$important
+@@||2.tlu.dl.delivery.mp.microsoft.com^$important
+@@||static.licdn.com^$important
+@@||media.licdn.com^$important
+@@||portal.brandlock.io^$important
+@@||dl.delivery.mp.microsoft.com^$important
+@@||browser.pipe.aria.microsoft.com^$important
+@@||cdn.samsungcloudsolution.com^$client='SamsungTVUE40D7090'
+@@||ns11.whois.co.kr^$client='SamsungTVUE40D7090'
+@@||api.weather.com^$important
+@@||region1.app-measurement.com^$important
+@@||app-measurement.com^$important
+@@||mobile.pipe.aria.microsoft.com^$important
+@@||self.events.data.microsoft.com^$important
+@@||browser.events.data.microsoft.com^$important
+@@||connect.facebook.net^$important
+@@||aan.amazon.de^$important
+@@||ad.doubleclick.net^$important
+@@||wl.spotify.com^$important
+@@||join.nebenan.de^$important
+@@||tracking.paqato.com^$important
+@@||sacred-game.com^$important
+@@||barclaysbankplc.demdex.net^$important
+@@||www.codecguide.com^$important
+@@||rsc-ads.vidaahub.com^$client='BENs-TV'
+@@||k2s.cc^$important
 
