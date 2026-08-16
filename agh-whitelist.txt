@@ -691,8 +691,8 @@
 @@|vod.provider.plex.tv^$important
 @@|webshows.provider.plex.tv^$important
 
-# Pinterest
-@@|pinterest.com^$important
+# Pinterest (inactive)
+! @@|pinterest.com^$important
 
 # Podcast Hosting
 @@|anchor.fm^$important
