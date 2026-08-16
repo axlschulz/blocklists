@@ -42,9 +42,9 @@
 @@||hbbtv.prosieben.de^
 @@||hbbtv.redbutton.de^
 @@||rt.applovin.com^$important
-@@||api-secure.solvemedia.com^$client='Alex PC'
-@@||cdn.samsungcloudsolution.com^$client='SamsungTVUE55MU'
-@@||lcprd1.samsungcloudsolution.net^$client='SamsungTVUE55MU'
+@@||api-secure.solvemedia.com^
+@@||cdn.samsungcloudsolution.com^
+@@||lcprd1.samsungcloudsolution.net^
 @@||binaries.templates.cdn.office.net^$important
 # Pokemon GO
 @@||nianticlabs.com^$important
@@ -55,8 +55,8 @@
 @@||portal.brandlock.io^$important
 @@||dl.delivery.mp.microsoft.com^$important
 @@||browser.pipe.aria.microsoft.com^$important
-@@||cdn.samsungcloudsolution.com^$client='SamsungTVUE40D7090'
-@@||ns11.whois.co.kr^$client='SamsungTVUE40D7090'
+@@||cdn.samsungcloudsolution.com^
+@@||ns11.whois.co.kr^
 @@||api.weather.com^$important
 @@||region1.app-measurement.com^$important
 @@||app-measurement.com^$important
@@ -72,6 +72,6 @@
 @@||sacred-game.com^$important
 @@||barclaysbankplc.demdex.net^$important
 @@||www.codecguide.com^$important
-@@||rsc-ads.vidaahub.com^$client='BENs-TV'
+@@||rsc-ads.vidaahub.com
 @@||k2s.cc^$important
 
