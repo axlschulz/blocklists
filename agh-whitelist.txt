@@ -1,7 +1,15 @@
 @@||hagezi.com^
 ## https://github.com/hagezi/dns-blocklists/tree/main/
 @@||dragonbox.de^
+! Fritz!Box
+@@||fritz.box^
+@@||fritz.nas^
+@@||fritz.local^
 @@||fritz.smartgateway^
+! 
+! Microsoft Windows network status
+@@||dns.msftncsi.com^
+!
 @@||vidaa.com^$important
 @@||redump.org^
 @@||dosbox-staging.org^
