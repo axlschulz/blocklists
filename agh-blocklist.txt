@@ -21,6 +21,7 @@
 ##
 ! domain block
 ##
+||ads.pinterest.com^
 ||royalgirl.de^
 ||wunderino.de^
 ||6nv37.casino^
